@@ -23,8 +23,7 @@
 <a target="_blank">
 
 
-<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/>
-
+<img src="https://cdn-icons-png.flaticon.com/128/732/732250.png" data-src="https://cdn-icons-png.flaticon.com/128/732/732250.png" alt="Swift " title="Swift " width="26" height="40" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/732/732250.png 4x">
 	
  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
