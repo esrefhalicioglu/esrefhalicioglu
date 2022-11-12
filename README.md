@@ -25,7 +25,7 @@
 
 <img align="left"  src="https://cdn-icons-png.flaticon.com/128/732/732250.png" data-src="https://cdn-icons-png.flaticon.com/128/732/732250.png" alt="Swift " title="Swift " width="26" height="40" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/732/732250.png 4x" style="padding-right:10px" />
 
-<img align="left" src="https://cdn-icons-png.flaticon.com/128/518/518705.png" data-src="https://cdn-icons-png.flaticon.com/128/518/518705.png" alt="Android " title="Android " width="26" height="40" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/518/518705.png 4x" 
+<img align="left" src="https://cdn-icons-png.flaticon.com/128/518/518705.png" data-src="https://cdn-icons-png.flaticon.com/128/518/518705.png" alt="Android " title="Android " width="30" height="40" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/518/518705.png 4x" 
 style="padding-right:10px" />
 	
  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
