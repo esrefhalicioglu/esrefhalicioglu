@@ -27,6 +27,9 @@
 
 <img align="left" src="https://cdn-icons-png.flaticon.com/128/518/518705.png" data-src="https://cdn-icons-png.flaticon.com/128/518/518705.png" alt="Android " title="Android " width="30" height="40" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/518/518705.png 4x" 
 style="padding-right:10px" />
+
+<img align="left" src="https://cdn-icons-png.flaticon.com/128/2232/2232241.png" data-src="https://cdn-icons-png.flaticon.com/128/2232/2232241.png" alt="Database " title="Database " width="30" height="40" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/2232/2232241.png 4x" 
+style="padding-right:10px">
 	
  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
