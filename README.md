@@ -22,7 +22,7 @@
 
 <a target="_blank">
 
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ANDROİD" width="26px" src="https://cdn-icons-png.flaticon.com/128/888/888839.png" data-src="https://cdn-icons-png.flaticon.com/128/888/888839.png" alt="Android " title="Android " width="64" height="64" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/888/888839.png 4x" style="padding-right:10px;>
 
 
 
