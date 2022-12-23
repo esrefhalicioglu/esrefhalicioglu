@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dincerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="dincerdogan" /> </p>
 
 - 🌱 I’m currently learning **Swift , Kotlin**
-- 📫 How to reach me **esrefhalicioglu@gmail.com**
+- 📫 How to reach me **esrefhalicioglu0@gmail.com**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: learn more about mobile programming
 - ⚡ Fun fact: I love learning languages and listen podcasts
