@@ -1,6 +1,6 @@
 
 
-<h1 align="center"># Hi there, I am Eşref Halıcıoğlu, I am a candidate Computer Engineer.  👋 </h1>
+<h1 align="center"># Hi there, I am Eşref Halıcıoğlu, I am a Database Administrator Candidate.  👋 </h1>
 <h3 align="center">Young DBA(Database administrator) candidate, Lifelong Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dincerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="dincerdogan" /> </p>
