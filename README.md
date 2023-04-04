@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dincerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="dincerdogan" /> </p>
 
-- 🌱 I’m currently learning **Postgresql
+- 🌱 I’m currently learning Postgresql,Oracle,SQL Server
 - 📫 How to reach me **esrefhalicioglu0@gmail.com**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: learn more about database
